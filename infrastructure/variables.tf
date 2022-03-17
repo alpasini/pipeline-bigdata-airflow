@@ -7,7 +7,7 @@ variable "lambda_function_name" {
 }
 
 variable "key_pair_name" {
-  default = "alexpasini-igti-teste" ## Criar uma na página do EC2
+  default = "alexpasini-igit-teste" ## Criar uma na página do EC2
 }
 
 variable "airflow_subnet_id" {
